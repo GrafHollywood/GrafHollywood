@@ -1,9 +1,20 @@
-## Frontend web developer
-![Frontend web developer](frog-banner.gif)
+<a href="https://github.com/GrafHollywood">
+  <img src="banner.gif" width=100%>
+</a>
 
-Делаю всякие веб штуки для себя или по учебе. Заинтересован в поиске интересных проектов.
+## Привет:wave:
+Делаю всякие веб штуки для души:ghost: или по учебе:mortar_board:. Заинтересован в поиске интересных проектов:eyes:.
 
-Что я умею: JS / HTML / CSS / TypeScript / Angular / Node.js / 
+## Что я умею:hammer:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+  <li>TypeScript</li>
+  <li>Angular</li>
+  <li>Node.js</li>
+  <li>Express</li>
+</ul>
 
 - 🌱 Сейчас иззучаю React 
 - 📫 Можешь написать мне на почту matvey.kalinin2001@mail.ru или связаться в [VK](https://vk.com/matthewkalinin)
@@ -14,7 +25,10 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/feed)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/dksymyCj)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrafHollywood)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrafHollywood&show_icons=true)  
-
+<a href="https://github.com/GrafHollywood/GrafHollywood">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GrafHollywood&theme=radical&show_icons=true" height=200px/>
+</a>
+<a href="https://github.com/GrafHollywood/GrafHollywood">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrafHollywood&theme=radical&layout=compact" height=200px/>
+</a>
