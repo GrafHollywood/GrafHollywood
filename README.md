@@ -5,30 +5,42 @@
 ## Привет:wave:
 Делаю всякие веб штуки для души:ghost: или по учебе:mortar_board:. Заинтересован в поиске интересных проектов:eyes:.
 
-## Что я умею:hammer:
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JS</li>
-  <li>TypeScript</li>
-  <li>Angular</li>
-  <li>Node.js</li>
-  <li>Express</li>
-</ul>
+## На чем работаю:wrench:
+![](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
+![](https://img.shields.io/badge/IDE-Visual%20Studio-blue?logo=visualstudio)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visualstudiocode)
 
-- 🌱 Сейчас иззучаю React 
+## С чем работаю:hammer:
+![](https://img.shields.io/badge/Верстка-HTML-informational?logo=html5)
+![](https://img.shields.io/badge/Верстка-CSS-informational?logo=css3)
+![](https://img.shields.io/badge/WEB-JavaScript-informational?logo=javascript)
+![](https://img.shields.io/badge/WEB-TypeScript-informational?logo=typescript)
+![](https://img.shields.io/badge/WEB-Angular-informational?logo=angular)
+![](https://img.shields.io/badge/WEB-Node.js-informational?logo=nodedotjs)
+![](https://img.shields.io/badge/WEB-Express.js-informational?logo=express)
+
+## Просто раздел:walking:
+- 🌱 Сейчас изучаю React 
 - 📫 Можешь написать мне на почту matvey.kalinin2001@mail.ru или связаться в [VK](https://vk.com/matthewkalinin)
 
+## Социальные сети и другое:speech_balloon:
+<a href="https://github.com/GrafHollywood">
+  <img src="https://img.shields.io/badge/GitHub-GrafHollywood-brightgreen?logo=GitHub">
+</a>
+<a href="https://vk.com/matthewkalinin">
+  <img src="https://img.shields.io/badge/VK-matthewkalinin-brightgreen?logo=vk">
+</a>
+<a href="https://www.instagram.com/matthew_kalinin.jpg/">
+  <img src="https://img.shields.io/badge/Instagram-matthew_kalinin.jpg-brightgreen?logo=instagram">
+</a> 
+<a href="https://discord.gg/MMmNqd7m">
+  <img src="https://img.shields.io/discord/840607976917827654?label=Discord%20server&logo=discord&logoColor=white">
+</a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GrafHollywood)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/matthew_kalinin.jpg/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/feed)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/dksymyCj)  
-
-
+## Статистика:blue_book:
 <a href="https://github.com/GrafHollywood/GrafHollywood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GrafHollywood&theme=radical&show_icons=true" height=200px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GrafHollywood&theme=radical&show_icons=true" height=150px/>
 </a>
 <a href="https://github.com/GrafHollywood/GrafHollywood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrafHollywood&theme=radical&layout=compact" height=200px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrafHollywood&theme=radical&layout=compact" height=150px/>
 </a>
