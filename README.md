@@ -1,5 +1,5 @@
 ## Frontend web developer
-![Frontend web developer](https://lh3.googleusercontent.com/vDepoNxc-8EUtlsgNe8WkpcJ2OwoC8j_2jFHKIip3OeYrcFQieluwyQJyFECR0Sx_cnnXFU9tjYARLO2p7-s=w1920-h964-rw)
+![Frontend web developer](frog-banner.gif)
 
 Делаю всякие веб штуки для себя или по учебе. Заинтересован в поиске интересных проектов.
 
