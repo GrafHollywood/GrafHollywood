@@ -1,7 +1,3 @@
-<a href="https://github.com/GrafHollywood">
-  <img src="https://github.com/GrafHollywood/GrafHollywood/blob/main/banner.png" width="100%"></img>
-</a>
-
 ## Привет:wave:
 Делаю всякие веб штуки для души:ghost: или по учебе:mortar_board:. Заинтересован в поиске интересных проектов:eyes:.
 
