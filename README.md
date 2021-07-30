@@ -1,5 +1,5 @@
 <a href="https://github.com/GrafHollywood">
-  <img src="banner.gif" width=100%>
+  <img src="banner.gif" width="100%"></img>
 </a>
 
 ## Привет:wave:
@@ -8,7 +8,7 @@
 ## На чем работаю:wrench:
 ![](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-blue?logo=visualstudio)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visualstudiocode)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visualstudiocode)
 
 ## С чем работаю:hammer:
 ![](https://img.shields.io/badge/Верстка-HTML-informational?logo=html5)
@@ -33,7 +33,7 @@
 <a href="https://www.instagram.com/matthew_kalinin.jpg/">
   <img src="https://img.shields.io/badge/Instagram-matthew_kalinin.jpg-brightgreen?logo=instagram">
 </a> 
-<a href="https://discord.gg/MMmNqd7m">
+<a href="https://discord.gg/uNnzuzspnV">
   <img src="https://img.shields.io/discord/840607976917827654?label=Discord%20server&logo=discord&logoColor=white">
 </a>
 
