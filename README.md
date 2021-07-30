@@ -29,7 +29,7 @@
 <a href="https://www.instagram.com/matthew_kalinin.jpg/">
   <img src="https://img.shields.io/badge/Instagram-matthew_kalinin.jpg-brightgreen?logo=instagram">
 </a> 
-<a href="https://discord.gg/uNnzuzspnV">
+<a href="https://discord.gg/KzDAmGNN6Y">
   <img src="https://img.shields.io/discord/840607976917827654?label=Discord%20server&logo=discord&logoColor=white">
 </a>
 
