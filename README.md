@@ -1,5 +1,5 @@
 <a href="https://github.com/GrafHollywood">
-  <img src="banner.gif" width="100%"></img>
+  <img src="banner.gif"></img>
 </a>
 
 ## Привет:wave:
