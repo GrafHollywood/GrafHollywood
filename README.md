@@ -18,7 +18,7 @@
 
 ## Просто раздел:walking:
 - 🌱 Сейчас изучаю React 
-- 📫 Можешь написать мне на почту matvey.kalinin2001@mail.ru или связаться в [VK](https://vk.com/matthewkalinin)
+- 📫 Можешь написать мне на почту matvey.kalinin2001@gmail.com или связаться в [VK](https://vk.com/matthewkalinin)
 
 ## Социальные сети и другое:speech_balloon:
 <a href="https://github.com/GrafHollywood">
