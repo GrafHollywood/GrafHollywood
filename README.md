@@ -1,14 +1,14 @@
 ## Привет:wave:
-Делаю всякие веб штуки для души:ghost: или по учебе:mortar_board:. Заинтересован в поиске интересных проектов:eyes:.
+Делаю всякие веб штуки для души :ghost: или по учебе :mortar_board:. Заинтересован в поиске интересных проектов :eyes:.
 
-## На чем работаю:wrench:
+## На чем работаю :wrench:
 ![](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
 ![](https://img.shields.io/badge/OS-Ubuntu-blue?logo=ubuntu)
 ![](https://img.shields.io/badge/IDE-WebStorm-blue?logo=webstorm)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-blue?logo=visualstudio)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visualstudiocode)
 
-## С чем работаю:hammer:
+## С чем работаю :hammer:
 ![](https://img.shields.io/badge/Верстка-HTML-informational?logo=html5)
 ![](https://img.shields.io/badge/Верстка-CSS-informational?logo=css3)
 ![](https://img.shields.io/badge/WEB-JavaScript-informational?logo=javascript)
@@ -17,11 +17,11 @@
 ![](https://img.shields.io/badge/WEB-Node.js-informational?logo=nodedotjs)
 ![](https://img.shields.io/badge/WEB-Express.js-informational?logo=express)
 
-## Просто раздел:walking:
+## Просто раздел :walking:
 - 🌱 Сейчас изучаю React 
 - 📫 Можешь написать мне на почту matvey.kalinin2001@gmail.com или связаться в [VK](https://vk.com/matthewkalinin)
 
-## Социальные сети и другое:speech_balloon:
+## Социальные сети и другое :speech_balloon:
 <a href="https://github.com/GrafHollywood">
   <img src="https://img.shields.io/badge/GitHub-GrafHollywood-brightgreen?logo=GitHub">
 </a>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/discord/840607976917827654?label=Discord%20server&logo=discord&logoColor=white">
 </a>
 
-## Статистика:blue_book:
+## Статистика :blue_book:
 <a href="https://github.com/GrafHollywood/GrafHollywood">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GrafHollywood&theme=radical&show_icons=true" height=150px/>
 </a>
