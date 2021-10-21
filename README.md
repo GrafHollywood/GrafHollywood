@@ -4,6 +4,7 @@
 ## На чем работаю:wrench:
 ![](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
 ![](https://img.shields.io/badge/OS-Ubuntu-blue?logo=ubuntu)
+![](https://img.shields.io/badge/IDE-WebStorm-blue?logo=webstorm)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-blue?logo=visualstudio)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visualstudiocode)
 
