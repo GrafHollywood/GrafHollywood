@@ -36,9 +36,18 @@
 </a>
 
 ## Статистика :blue_book:
+<div align="center">
 <a href="https://github.com/GrafHollywood/GrafHollywood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GrafHollywood&theme=radical&show_icons=true" height=150px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GrafHollywood&theme=radical&show_icons=true" height=150px/>
 </a>
 <a href="https://github.com/GrafHollywood/GrafHollywood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrafHollywood&theme=radical&layout=compact" height=150px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrafHollywood&theme=radical&layout=compact" height=150px/>
 </a>
+</div>
+  
+## LeetCode статистика 📗:
+<div align="center">
+  <a href="https://github.com/GrafHollywood/GrafHollywood">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=GrafHollywood" height=150px/>
+  </a>
+</div>
